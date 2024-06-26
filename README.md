@@ -5,4 +5,15 @@ A<br>
 AB<br>
 ABC<br>
 ABCD<br>
-ABCDE
+ABCDE<br>
+
+<h6> 2. Butterfly pattern</h6>
+*        *<br>
+**      **<br>
+***    ***<br>
+****  ****<br>
+**********<br>
+****  ****<br>
+***    ***<br>
+**      **<br>
+*        *<br>
